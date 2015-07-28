@@ -1,0 +1,22 @@
+{
+  "name": "webdev-breakdown",
+  "version": "1.0.0",
+  "description": "https://generalassemb.ly/education/web-development-lets-break-it-down/singapore/15138",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbas/webdev-breakdown.git"
+  },
+  "keywords": [
+    "general-assembly"
+  ],
+  "author": "Sebastiaan Deckers <seb@ninja.sg>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbas/webdev-breakdown/issues"
+  },
+  "homepage": "https://github.com/cbas/webdev-breakdown#readme"
+}
