@@ -149,7 +149,18 @@ Web services are programmed in JavaScript using the Node.js environment, aka io.
 - [io.js](https://iojs.org/)
 
 This comes with NPM, the Node Package Manager, to offer access to a vast amount of free and open source code.
-- NPM vs other developer ecosystems http://www.modulecounts.com/
-- NPM community stats http://visual.ly/growth-npm
+- [npm](https://www.npmjs.com/)
+- [NPM vs other developer ecosystems](http://www.modulecounts.com/)
+- [NPM community stats](http://visual.ly/growth-npm)
 
-## Resources to help you along the way (including some GA classes)
+## Resources to help you along the way
+
+### Singapore Community
+- [Gitter: public dev chat room](https://gitter.im/SingaporeJS/discussions)
+- [SingaporeJS meetups & book club](http://www.meetup.com/Singapore-JS/)
+- [Front End Developers Singapore: learning meetup](http://feds.strikingly.com/)
+- [Webuild: free and open tech meetups](https://webuild.sg/)
+
+### Learning
+- [NodeSchool](http://nodeschool.io/)
+- [General Assembly Singapore: Web Development](https://generalassemb.ly/education?topic=6)
